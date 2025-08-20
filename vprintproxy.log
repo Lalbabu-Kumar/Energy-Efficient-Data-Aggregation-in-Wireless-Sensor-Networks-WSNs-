@@ -1,0 +1,15 @@
+Jun 07 11:22:19.974: app-2828| Log for vprintproxy pid=2328 version=1.0 build=build-324285 option=Release
+Jun 07 11:22:19.974: app-2828| The process is 32-bit.
+Jun 07 11:22:19.974: app-2828| Host codepage=windows-1252 encoding=windows-1252
+Jun 07 11:22:19.974: app-2828| Started, process id = 2328
+Jun 07 11:22:19.974: app-2828|          pipe = \\.\pipe\vmware.vprint.3148.41.0
+Jun 07 11:22:19.974: app-2828|          mutex = Global\vmware.vprint-s.3148.18467.1
+Jun 07 11:22:19.974: app-2828| Path for TPClnVM.dll = 'C:\Program Files\VMware\VMware Player\TPClnVM.dll'
+Jun 07 11:22:19.990: app-2828| Loaded TPClnVM.dll as C:\Program Files\VMware\VMware Player\TPClnVM.dll
+Jun 07 11:22:19.990: app-2828| Got entry/stop functions
+Jun 07 11:22:19.990: app-2828| Calling TP 'entry' function
+Jun 07 11:22:20.021: app-2828| Waiting for mutex "Global\vmware.vprint-s.3148.18467.1" ...
+Jun 07 12:06:41.473: app-2828| Mutex signalled
+Jun 07 12:06:41.473: app-2828| Calling TP 'stop' function
+Jun 07 12:06:42.016: app-2828| Cleaned up OK
+Jun 07 12:06:42.016: app-2828| Exit
